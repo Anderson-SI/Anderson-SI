@@ -20,7 +20,7 @@
 ---
 ### <center> 🚀 _Aqui você encontrará meus projetos, experimentos e colaborações em áreas que me fascinam, como Analise de Dados, Redes de Computadores e Desenvolvimento Web._ </center> 
 
-![Anderson-SI GitHub stats](https://github-readme-stats.vercel.app/api?username=Anderson-SI&show_icons=true&theme=dark)
+![Anderson-SI GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-si&show_icons=true&theme=dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-SI&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-si&layout=compact&theme=dark)
